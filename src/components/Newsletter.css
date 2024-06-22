@@ -1,0 +1,85 @@
+.heading-5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.newsletter-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8.5px 0 0;
+}
+.sign-up-now {
+  position: relative;
+  line-height: 22px;
+}
+.newsletter-description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.5px 0 0;
+  font-size: 16px;
+}
+.button17 {
+  height: 39px;
+  width: 140px;
+  z-index: 1;
+}
+.input,
+.newsletter {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.input {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  justify-content: flex-start;
+  padding: 8px 9px;
+  min-width: 140px;
+}
+.newsletter {
+  align-self: stretch;
+  background-color: #f13544;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 40.8px 495px 39.2px;
+  gap: 22px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 32px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 1350px) {
+  .newsletter {
+    padding-left: 247px;
+    padding-right: 247px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .heading-5 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .newsletter {
+    padding-left: 123px;
+    padding-right: 123px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-5 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

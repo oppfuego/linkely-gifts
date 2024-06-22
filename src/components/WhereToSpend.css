@@ -1,0 +1,263 @@
+.where-to-spend1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.where-to-spend-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.birthday,
+.congrats,
+.thank-you,
+.ultimate {
+  color: #f13544;
+}
+.our-ultimate-birthday-container {
+  margin: 0;
+  height: 22px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.eat,
+.fashion-beauty,
+.home {
+  color: #f13544;
+}
+.or-you-can-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 22px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.description,
+.specialized-card {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.specialized-card {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 0 26px;
+}
+.description {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 2px;
+  font-size: 18px;
+  color: #1c1c1c;
+}
+.frame-parent12,
+.frame-wrapper8 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent12 {
+  width: 855px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.frame-wrapper8 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.input-filter-icon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  border-radius: 50px;
+  mix-blend-mode: normal;
+}
+.filter-options {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 0 0;
+}
+.show-all {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 65px;
+}
+.filter-options1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+}
+.input-filter {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  border-radius: 50px;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  mix-blend-mode: normal;
+}
+.filter-options2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 0 0;
+}
+.fashion-beauty1 {
+  position: relative;
+  line-height: 22px;
+}
+.filter-options3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+}
+.input-filter1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  border-radius: 50px;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  mix-blend-mode: normal;
+}
+.filter-options4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 0 0;
+}
+.home1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 45px;
+}
+.filter-options5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+}
+.input-filter2 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  border-radius: 50px;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  mix-blend-mode: normal;
+}
+.filter-options6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 0 0;
+}
+.eat1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 25px;
+}
+.filter-options7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+}
+.input-searchtext {
+  border: 0;
+  background-color: transparent;
+  height: 38px;
+  width: 217px;
+  font-family: Inter;
+  font-size: 13.2px;
+  color: rgba(33, 37, 41, 0.5);
+  mix-blend-mode: normal;
+}
+.div-filter {
+  align-self: stretch;
+  background-color: rgba(31, 42, 64, 0.2);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 17.6px 16px 19.6px;
+  gap: 16px;
+  mix-blend-mode: normal;
+  font-size: 16px;
+  color: #1c1c1c;
+}
+.frame-parent11,
+.where-to-spend {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent11 {
+  width: 1288px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 48px;
+}
+.where-to-spend {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 32px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 48px;
+  color: #663791;
+  font-family: Inter;
+}
+@media screen and (max-width: 925px) {
+  .where-to-spend1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .div-filter {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .frame-parent11 {
+    gap: 24px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .where-to-spend1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

@@ -1,0 +1,436 @@
+.what-customers-are {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.what-customers-are-saying-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 43px;
+  flex-shrink: 0;
+  font-size: 24px;
+  color: #663791;
+}
+.image-p-3-icon {
+  align-self: stretch;
+  height: 242.3px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.choose-a-card1 {
+  position: relative;
+  line-height: 22px;
+}
+.choose-a-card-that-suits-their-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 16px;
+}
+.svg-icon {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  mix-blend-mode: normal;
+}
+.nested-testimonial-quotes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px 0 0;
+}
+.easy-to-use {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 133px;
+  max-width: 100%;
+}
+.testimonial-quotes {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  max-width: 100%;
+}
+.svg-icon1 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  mix-blend-mode: normal;
+}
+.svg-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px 0 0;
+}
+.i-dont-have {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 215px;
+  max-width: 100%;
+}
+.testimonial-quotes1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  max-width: 100%;
+}
+.svg-icon2 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  mix-blend-mode: normal;
+}
+.svg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.i-dont-know {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 215px;
+  max-width: 100%;
+}
+.testimonial-quotes2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 12px;
+  max-width: 100%;
+}
+.testimonial-quotes-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 2.5px;
+}
+.frame-parent4,
+.frame-wrapper2,
+.frame-wrapper3,
+.testimonial-quotes-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 28px 0 29px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.frame-parent4,
+.frame-wrapper2 {
+  flex-direction: column;
+}
+.frame-parent4 {
+  align-self: stretch;
+  gap: 12px;
+}
+.frame-wrapper2 {
+  width: 408px;
+  padding: 16px 0 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.post-it-email {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.post-options-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 68px;
+}
+.image-p-3-icon1 {
+  align-self: stretch;
+  height: 242.3px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.choose-a-card2 {
+  position: relative;
+  line-height: 24px;
+}
+.post-options-description {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 16px;
+  font-size: 14px;
+}
+.svg-icon3 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  mix-blend-mode: normal;
+}
+.gift-card-type {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px 0 0;
+}
+.a-beautiful-gift {
+  position: relative;
+  line-height: 22px;
+}
+.gift-card-types-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.svg-icon4 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  mix-blend-mode: normal;
+}
+.svg-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px 0 0;
+}
+.a-digital-egift {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 196px;
+  max-width: 100%;
+}
+.gift-card-types-list1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  max-width: 100%;
+}
+.svg-icon5 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  mix-blend-mode: normal;
+}
+.svg-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+}
+.a-voucher-you {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 215px;
+  max-width: 100%;
+}
+.gift-card-types-list2 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 12px;
+}
+.gift-card-types,
+.gift-card-types-container,
+.gift-card-types-list2,
+.post-options {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gift-card-types-container {
+  flex: 1;
+  flex-direction: column;
+  gap: 2.5px;
+}
+.gift-card-types,
+.post-options {
+  box-sizing: border-box;
+}
+.gift-card-types {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 28px 0 29px;
+  flex-shrink: 0;
+  font-size: 16px;
+}
+.post-options {
+  flex: 1;
+  border-radius: 8px;
+  background-color: #eee;
+  flex-direction: column;
+  padding: 16px 16px 20px;
+  gap: 11.3px;
+  min-width: 286px;
+}
+.personalise-your-gift {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.add-a-personal,
+.image-p-3-icon2 {
+  align-self: stretch;
+  position: relative;
+}
+.image-p-3-icon2 {
+  height: 242.3px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.add-a-personal {
+  line-height: 24px;
+}
+.paragraph,
+.personalization-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.paragraph {
+  padding: 0 20px 0 0;
+  mix-blend-mode: normal;
+}
+.personalization-content {
+  font-size: 14px;
+  color: #1c1c1c;
+}
+.button16 {
+  align-self: stretch;
+  height: 38px;
+}
+.personalization-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 28px;
+  flex-shrink: 0;
+}
+.frame-parent3,
+.personalization {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.personalization {
+  width: 408px;
+  flex-direction: column;
+  padding: 22.5px 0 0;
+  box-sizing: border-box;
+  color: #663791;
+}
+.frame-parent3 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 32px;
+  text-align: left;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 925px) {
+  .frame-parent3 {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .what-customers-are {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .what-customers-are-saying-wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .testimonial-quotes,
+  .testimonial-quotes1,
+  .testimonial-quotes2 {
+    flex-wrap: wrap;
+  }
+  .post-it-email {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .post-options-container {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .gift-card-types-list1,
+  .gift-card-types-list2 {
+    flex-wrap: wrap;
+  }
+  .personalise-your-gift {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .button16 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,589 @@
+.tag-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.tag-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button,
+.button-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.button {
+  width: 180px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  background-color: #f13544;
+  justify-content: flex-start;
+  padding: 16px 75px;
+  gap: 16px;
+}
+.button-wrapper {
+  margin-top: -382px;
+  height: 382px;
+  justify-content: center;
+  padding: 0 20px 328px;
+  flex-shrink: 0;
+}
+.choose-a-card {
+  margin: 0;
+  width: 239px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.for-sending-by {
+  position: relative;
+  line-height: 22px;
+}
+.for-sending-by-post-or-email-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+  font-size: 16px;
+  color: #1c1c1c;
+}
+.choose-a-card-parent,
+.quadruple-nested-card-containe {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.choose-a-card-parent {
+  flex: 1;
+  justify-content: space-between;
+  padding: 40px 0 24px;
+  gap: 20px;
+}
+.quadruple-nested-card-containe {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 6px;
+}
+.link-ultimate-1webp {
+  width: 474px;
+  position: relative;
+  border-radius: 8px;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 322px;
+  max-width: 100%;
+}
+.heading-3 {
+  margin: 0;
+  position: relative;
+  font-size: 32px;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.blank-line,
+.blank-line1,
+.entertainment,
+.ith-the-lifestyle,
+.of-the-biggest,
+.we-offer-the {
+  margin: 0;
+}
+.of-the-biggest-container {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.of-the-biggest-and-best-loved-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  color: #1c1c1c;
+}
+.view-the-250 {
+  position: relative;
+  line-height: 22px;
+}
+.button2 {
+  height: 40px;
+  width: 142px;
+}
+.view-the-250-brands-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.heading-3-ultimate-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 465px;
+  max-width: 100%;
+}
+.double-nested-ultimate-card-co,
+.nested-ultimate-card-container {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.double-nested-ultimate-card-co {
+  background-color: #f5f1f9;
+  flex-direction: row;
+  align-items: center;
+  padding: 48px 32px;
+  gap: 27px;
+}
+.nested-ultimate-card-container {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 24px 0 80px;
+  min-height: 524px;
+}
+.card-1-1-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.card-1-1-item {
+  position: absolute;
+  top: calc(50% - 69px);
+  left: calc(50% - 103px);
+  width: 205px;
+  height: 136px;
+  object-fit: contain;
+  z-index: 1;
+}
+.card-1-1 {
+  align-self: stretch;
+  height: 240px;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.heading-31 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 70px;
+}
+.unleash-your-potential {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.heading-3-thank-you-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.view-all-nike {
+  position: relative;
+  line-height: 22px;
+}
+.button3 {
+  height: 40px;
+  width: 80px;
+}
+.view-all-nike-cards-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  color: #f13544;
+}
+.frame-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0 0 16px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.card-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 4px;
+  box-sizing: border-box;
+}
+.card,
+.card-grid,
+.card-inner,
+.ultimate-card-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card {
+  width: 416px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 24px;
+  box-sizing: border-box;
+  gap: 16px;
+}
+.card-grid,
+.ultimate-card-container {
+  align-self: stretch;
+}
+.card-grid {
+  height: 1334px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 16px 14px;
+  font-size: 32px;
+  color: #1c1c1c;
+}
+.ultimate-card-container {
+  flex-direction: column;
+  padding: 0 0 32px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #f13544;
+}
+.benefits {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 98px;
+}
+.image-ng-lazyloaded-icon {
+  width: 130.4px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.hour-delivery,
+.send-by-post {
+  position: relative;
+  line-height: 22px;
+}
+.hour-delivery {
+  font-size: 16px;
+  color: #acb0bb;
+  display: inline-block;
+  min-width: 123px;
+}
+.image-ng-lazyloaded-parent {
+  height: 128px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.image-ng-lazyloaded-icon1 {
+  width: 72.9px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.add-images-and,
+.personalise-it {
+  position: relative;
+  line-height: 22px;
+}
+.personalise-it {
+  display: inline-block;
+  min-width: 119px;
+}
+.add-images-and {
+  font-size: 16px;
+  color: #acb0bb;
+}
+.image-ng-lazyloaded-group {
+  height: 128px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.image-ng-lazyloaded-icon2 {
+  width: 70.5px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.sustainable {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 99px;
+}
+.carbon-neutral-and {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #acb0bb;
+  text-align: center;
+}
+.sustainable-benefit {
+  height: 150px;
+  width: 291px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 18px;
+}
+.benifits,
+.benifits-wrapper {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.benifits {
+  width: 1106px;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 48px 0;
+  gap: 32px;
+}
+.benifits-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  font-size: 24px;
+  color: #1c1c1c;
+}
+.triple-nested-card-container {
+  flex: 1;
+  flex-direction: column;
+}
+.double-nested-card-container,
+.nested-card-container,
+.triple-nested-card-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.double-nested-card-container {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.nested-card-container {
+  width: 1320px;
+  flex-direction: column;
+  gap: 80px;
+}
+.card-container,
+.homepage-1921 {
+  display: flex;
+  align-items: flex-start;
+  font-family: Inter;
+}
+.card-container {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 32px;
+  color: #663791;
+}
+.homepage-1921 {
+  width: 100%;
+  height: 4465px;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+}
+@media screen and (max-width: 1350px) {
+  .link-ultimate-1webp {
+    flex: 1;
+  }
+  .double-nested-ultimate-card-co {
+    flex-wrap: wrap;
+  }
+  .card-container {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .homepage-1921 {
+    height: auto;
+  }
+}
+@media screen and (max-width: 925px) {
+  .choose-a-card {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .choose-a-card-parent {
+    flex-wrap: wrap;
+  }
+  .heading-3 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .heading-3-ultimate-parent {
+    min-width: 100%;
+  }
+  .nested-ultimate-card-container {
+    padding-top: 20px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .heading-31 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .frame-group {
+    flex-wrap: wrap;
+  }
+  .benifits {
+    gap: 16px;
+  }
+  .nested-card-container {
+    gap: 40px;
+  }
+  .card-container {
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .button-wrapper {
+    padding-bottom: 213px;
+    box-sizing: border-box;
+  }
+  .choose-a-card,
+  .heading-3 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .view-the-250-brands-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .double-nested-ultimate-card-co {
+    padding-top: 31px;
+    padding-bottom: 31px;
+    box-sizing: border-box;
+  }
+  .heading-31 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .view-all-nike-cards-parent {
+    flex-wrap: wrap;
+  }
+  .card-grid {
+    height: auto;
+    min-height: 1334;
+  }
+  .benefits {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .nested-card-container {
+    gap: 20px;
+  }
+}

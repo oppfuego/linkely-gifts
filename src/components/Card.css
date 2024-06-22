@@ -1,0 +1,130 @@
+.card-1-2-child,
+.card-1-2-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.card-1-2-item {
+  height: 50.17%;
+  width: 48.92%;
+  top: 24.71%;
+  right: 25.55%;
+  bottom: 25.13%;
+  left: 25.53%;
+  object-fit: contain;
+  z-index: 1;
+}
+.card-1-2 {
+  align-self: stretch;
+  height: 240px;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.heading-32 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 93px;
+}
+.unlock-endless-possibilities {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.heading-3-thank-you-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.view-all-apple {
+  position: relative;
+  line-height: 22px;
+}
+.button15 {
+  height: 40px;
+  width: 80px;
+}
+.view-all-apple-cards-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  color: #f13544;
+}
+.card-child,
+.card1,
+.frame-parent2 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent2 {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0 0 16px;
+  gap: 24px;
+}
+.card-child,
+.card1 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-child {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 4px;
+}
+.card1 {
+  width: 416px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 432px;
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 24px;
+  gap: 16px;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 925px) {
+  .heading-32 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-32 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .view-all-apple-cards-parent {
+    flex-wrap: wrap;
+  }
+}

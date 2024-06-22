@@ -1,0 +1,442 @@
+.linkely7 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 55px;
+}
+.frame-child5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.gifts7 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 38px;
+}
+.linkely-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.image-bcorp-icon3 {
+  height: 70px;
+  width: 65.7px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.div-footer-img3,
+.footer-left {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.div-footer-img3 {
+  flex: 1;
+  justify-content: space-between;
+  padding: 0 33px 0 0;
+  mix-blend-mode: normal;
+  gap: 20px;
+}
+.footer-left {
+  width: 1342px;
+  justify-content: flex-start;
+  padding: 0 23px 0 22px;
+}
+.buy-gift-cards3 {
+  position: relative;
+  line-height: 22px;
+  color: #62b0ff;
+  display: inline-block;
+  min-width: 111px;
+}
+.our-brands6 {
+  display: inline-block;
+  min-width: 85px;
+}
+.how-it-works3,
+.our-brands6,
+.our-gift-cards3 {
+  position: relative;
+  line-height: 22px;
+}
+.our-gift-cards3 {
+  display: inline-block;
+  min-width: 104px;
+}
+.how-it-works3 {
+  min-width: 98px;
+}
+.about-us6,
+.faqs9,
+.how-it-works3 {
+  display: inline-block;
+}
+.about-us6 {
+  position: relative;
+  line-height: 22px;
+  min-width: 68px;
+}
+.faqs9 {
+  min-width: 39px;
+}
+.contact-us9,
+.faqs9,
+.returns-refunds3,
+.shipping-delivery3 {
+  position: relative;
+  line-height: 22px;
+}
+.contact-us9 {
+  display: inline-block;
+  min-width: 83px;
+}
+.primary-links {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.redeem-gift-card3 {
+  position: relative;
+  line-height: 22px;
+  color: #62b0ff;
+}
+.contact-us10,
+.faqs10,
+.register-voucher3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 128px;
+}
+.contact-us10,
+.faqs10 {
+  min-width: 39px;
+}
+.contact-us10 {
+  min-width: 83px;
+}
+.list13 {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 16px;
+  box-sizing: border-box;
+  gap: 8px;
+  mix-blend-mode: normal;
+}
+.for-business7 {
+  position: relative;
+  line-height: 135%;
+  color: #62b0ff;
+  display: inline-block;
+  min-width: 97px;
+}
+.gift-card3,
+.our-brands7 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 66px;
+}
+.our-brands7 {
+  min-width: 85px;
+}
+.about-us7,
+.contact-us11,
+.events3,
+.faqs11,
+.knowledge-hub3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 51px;
+}
+.about-us7,
+.contact-us11,
+.faqs11,
+.knowledge-hub3 {
+  min-width: 118px;
+}
+.about-us7,
+.contact-us11,
+.faqs11 {
+  min-width: 39px;
+}
+.about-us7,
+.contact-us11 {
+  min-width: 68px;
+}
+.contact-us11 {
+  min-width: 83px;
+}
+.div-footer-links3,
+.list14 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  mix-blend-mode: normal;
+}
+.list14 {
+  width: 250px;
+  flex-direction: column;
+  padding: 0 0 24px;
+  gap: 8px;
+}
+.div-footer-links3 {
+  flex: 1;
+  flex-direction: row;
+  padding: 0 24px 66.8px;
+  gap: 24px;
+  max-width: 100%;
+}
+.svg-icon17,
+.svg-icon18,
+.svg-icon19 {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  mix-blend-mode: normal;
+  min-height: 32px;
+}
+.svg-icon18,
+.svg-icon19 {
+  width: 28px;
+}
+.div-brand-links3 {
+  width: 416px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+  gap: 16px;
+  mix-blend-mode: normal;
+  max-width: 100%;
+}
+.promotions3,
+.terms-conditions3 {
+  position: relative;
+  line-height: 22px;
+}
+.promotions3 {
+  display: inline-block;
+  min-width: 86px;
+}
+.policy-items {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 8px;
+}
+.privacy-policy3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 105px;
+}
+.list15,
+.policy-items1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.policy-items1 {
+  flex-direction: row;
+  padding: 0 4px 0 36px;
+}
+.list15 {
+  width: 145px;
+  flex-direction: column;
+  gap: 10px;
+}
+.image-icon15,
+.image-icon16,
+.image-icon17,
+.image-icon18,
+.image-icon19 {
+  align-self: stretch;
+  width: 65px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  mix-blend-mode: normal;
+  min-height: 41px;
+}
+.image-icon17,
+.image-icon18,
+.image-icon19 {
+  width: 60px;
+}
+.image-icon18,
+.image-icon19 {
+  width: 50px;
+}
+.div-ways-to-pay3 {
+  width: 416px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 0 0;
+  box-sizing: border-box;
+  mix-blend-mode: normal;
+  gap: 20px;
+  max-width: 100%;
+}
+.place-london-ec2a3,
+.powered-by-motivates3 {
+  position: relative;
+  line-height: 22px;
+}
+.place-london-ec2a-3dr-all-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 26px;
+}
+.bottom-content,
+.paragraph4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.paragraph4 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 10px;
+}
+.bottom-content {
+  flex: 1;
+  align-items: flex-end;
+  gap: 26px;
+  max-width: 100%;
+}
+.div-no-highlight3 {
+  width: 461px;
+  flex-direction: row;
+  align-items: flex-start;
+  min-width: 461px;
+}
+.div-no-highlight3,
+.footer-content,
+.footer-right,
+.footer6,
+.footer7 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.footer-right {
+  width: 1341px;
+  flex-direction: row;
+  align-items: flex-start;
+  row-gap: 20px;
+  text-align: left;
+  color: #d9d9d9;
+}
+.footer-content,
+.footer6,
+.footer7 {
+  box-sizing: border-box;
+}
+.footer-content {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px;
+  gap: 48px;
+}
+.footer6,
+.footer7 {
+  flex-direction: row;
+  align-items: flex-start;
+  mix-blend-mode: normal;
+}
+.footer7 {
+  flex: 1;
+  padding: 0 62px;
+}
+.footer6 {
+  align-self: stretch;
+  background-color: #1c1c1c;
+  padding: 29px 60px;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 1350px) {
+  .div-footer-links3 {
+    flex-wrap: wrap;
+  }
+  .div-no-highlight3 {
+    flex: 1;
+  }
+  .footer-right {
+    flex-wrap: wrap;
+  }
+  .footer6,
+  .footer7 {
+    padding-left: 31px;
+    padding-right: 31px;
+    box-sizing: border-box;
+  }
+  .footer6 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+@media screen and (max-width: 925px) {
+  .div-footer-links3 {
+    min-width: 100%;
+  }
+  .div-ways-to-pay3 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .div-no-highlight3 {
+    min-width: 100%;
+  }
+  .footer-content {
+    gap: 24px;
+  }
+  .footer6 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .div-footer-img3 {
+    flex-wrap: wrap;
+  }
+  .div-brand-links3 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

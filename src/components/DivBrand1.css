@@ -1,0 +1,40 @@
+.image-ng-lazyloaded-icon136 {
+  width: 186px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.bean-and-bemble {
+  position: relative;
+  display: inline-block;
+  min-width: 100px;
+}
+.bean-and-bemble-wrapper,
+.div-brand134 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 43px;
+}
+.div-brand134 {
+  height: 150px;
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 474px;
+  left: 208px;
+  border: 3px solid #f5f1f9;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 7px 4px 17.8px;
+  gap: 10.2px;
+  mix-blend-mode: normal;
+  text-align: center;
+  font-size: 12px;
+  color: #1c1c1c;
+  font-family: Inter;
+}

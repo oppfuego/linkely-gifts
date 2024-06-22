@@ -1,0 +1,209 @@
+.looking-for-gift {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.buy-the-gift {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 1;
+}
+.button9 {
+  width: 141px;
+  height: 54px;
+  z-index: 1;
+}
+.nested-button-container {
+  width: 590px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+  max-width: 100%;
+}
+.symbol1,
+.symbol2 {
+  margin: 0;
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  font-size: inherit;
+  line-height: 48px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24.3px;
+  height: 48px;
+}
+.button11 {
+  height: 82px;
+  flex: 1;
+  position: relative;
+  box-shadow: 2px 5px 25px 25px rgba(0, 0, 0, 0.6) inset;
+  background-color: transparent;
+  overflow: hidden;
+  opacity: 0.5;
+  z-index: 3;
+}
+.button-frame,
+.button10 {
+  display: flex;
+  align-items: flex-start;
+}
+.button10 {
+  align-self: stretch;
+  box-shadow: 2px 5px 25px 25px rgba(0, 0, 0, 0.6) inset;
+  background-color: transparent;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: flex-start;
+  opacity: 0.5;
+  z-index: 2;
+}
+.button-frame {
+  width: 56px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 33px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: "Font Awesome 5 Free";
+}
+.button-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+  font-size: 48px;
+}
+.double-nested-hero-container,
+.hero-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.double-nested-hero-container {
+  width: 748px;
+  flex-direction: column;
+  gap: 16px;
+}
+.hero-container {
+  align-self: stretch;
+  flex-direction: row;
+}
+.button12,
+.button13,
+.button14 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  border-radius: 12px;
+}
+.button12 {
+  background-color: #f13544;
+}
+.button13,
+.button14 {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.button-parent {
+  width: 128px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.hero,
+.hero-wrapper,
+.rebranded-hero-artworkjpg {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rebranded-hero-artworkjpg {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 153px 882px 16px 240px;
+  box-sizing: border-box;
+  gap: 165px;
+  background-image: url(/public/rebrandedheroartworkjpg@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hero,
+.hero-wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.hero {
+  flex: 1;
+}
+.hero-wrapper {
+  align-self: stretch;
+  padding: 0 0 32px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 1350px) {
+  .button-container {
+    flex-wrap: wrap;
+  }
+  .rebranded-hero-artworkjpg {
+    gap: 82px;
+    padding-left: 120px;
+    padding-right: 441px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .buy-the-gift {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .nested-button-container {
+    gap: 24px;
+  }
+  .symbol1,
+  .symbol2 {
+    font-size: 38px;
+    line-height: 38px;
+  }
+  .rebranded-hero-artworkjpg {
+    gap: 41px;
+    padding: 99px 220px 20px 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .buy-the-gift {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .symbol1,
+  .symbol2 {
+    font-size: 29px;
+    line-height: 29px;
+  }
+}
